@@ -1,6 +1,8 @@
 # clojure-react-skeleton
 
-Quick template project for Clojure webapp with React front-end.
+Quick template project for Clojure webapp with React front-end. React-part is from this tutorial:
+
+https://github.com/reactjs/react-tutorial
 
 ## Usage
 
@@ -34,3 +36,15 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+## React Tutorial license:
+
+The examples provided by Facebook are for non-commercial testing and evaluation
+purposes only. Facebook reserves all rights not expressly granted.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+FACEBOOK BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
